@@ -102,7 +102,10 @@ const FormProduct = () => {
       </form>
     </div>
   </div>
+  <br />
+  <h2 class="text-2xl font-bold mb-4">Mariela León</h2>
 </div>
+
   );
 };
 
