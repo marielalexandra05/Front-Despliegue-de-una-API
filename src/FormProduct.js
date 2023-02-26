@@ -22,24 +22,7 @@ const FormProduct = () => {
   };
 
   return (
-    // <div className="mb-12 border rounded p-3 mt-2">
-    //   <h3 className="mb-3 mt-2">Agregar Producto</h3>
-    //   <form onSubmit={handleSubmit}>
-    //     <FormGroup>
-    //       <Label for="name">Nombre:</Label>
-    //       <Input type="text" name="name" id="name" value={product.name} onChange={handleInputChange} />
-    //     </FormGroup>
-    //     <FormGroup>
-    //       <Label for="price">Precio:</Label>
-    //       <Input type="number" name="price" id="price" value={product.price} onChange={handleInputChange} />
-    //     </FormGroup>
-    //     <FormGroup>
-    //       <Label for="expiry_date">Fecha de expiración:</Label>
-    //       <Input type="date" name="expiry_date" id="expiry_date" value={product.expiry_date} onChange={handleInputChange} />
-    //     </FormGroup>
-    //     <Button type="submit" color="primary">Agregar</Button>
-    //   </form>
-    // </div>
+  
    <div class="max-w-md mx-auto bg-white rounded-lg overflow-hidden md:max-w-xl">
   <div class="md:flex">
     <div class="w-full px-6 py-8">
